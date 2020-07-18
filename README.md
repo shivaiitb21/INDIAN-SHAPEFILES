@@ -1,5 +1,5 @@
 # INDIAN-SHAPEFILES
-Shape-files and Geojson files for various categories of India.
+Shape-files and Geojson files for various categories on India.
 
 ## WHAT THIS REPO CONSISTS
     This Repo consists of Latest and most accurate shapefiles of India.
