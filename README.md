@@ -4,7 +4,7 @@ Shape-files and Geojson files for various categories on India.
 ## WHAT THIS REPO CONSISTS
     This Repo consists of Latest and most accurate shapefiles of India.
     Formats:- SHAPEFILE,GEOJSON
-    Categories:- INDIAN STATES,UTS,DISTRICTS AND SUB-DISTRICTS
+    Categories:- INDIAN STATES,UTS,DISTRICTS AND SUB-DISTRICTS,METROPOLITION
                  *sub-districts are under process
                       
 ## WHERE DID THESE DATA FROM
